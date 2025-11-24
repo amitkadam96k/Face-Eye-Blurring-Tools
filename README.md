@@ -67,6 +67,7 @@ After running the script, follow the on-screen prompt:
 
 ✨ *Created with ❤️ by Amit Kadam* ✨
 
+***
 Creative Commons Attribution-NonCommercial 4.0 International License
 
 You are free to:
@@ -79,4 +80,6 @@ Under the following terms:
 - No additional restrictions.
 
 This license prohibits commercial resale or redistribution of this software.
+
+
 
