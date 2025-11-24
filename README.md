@@ -66,3 +66,17 @@ After running the script, follow the on-screen prompt:
 ---
 
 ✨ *Created with ❤️ by Amit Kadam* ✨
+
+Creative Commons Attribution-NonCommercial 4.0 International License
+
+You are free to:
+- Share — copy and redistribute the material
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit.
+- NonCommercial — You may not use the material for commercial purposes.
+- No additional restrictions.
+
+This license prohibits commercial resale or redistribution of this software.
+
